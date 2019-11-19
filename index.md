@@ -1,10 +1,10 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/logo.svg
+title: Beeline
+description: 
+image: /images/logo.png
 permalink: /
-notification: Beeline will be discountinuing our services from 1 Jan 2020 onwards. Thank you for your support! Read more about it <a href="/faq/">here</a>.
+notification: Beeline will be discountinuing our services from 1 Jan 2020 onwards. Thank you for your support! Find out more <a href="/faq/">here</a>.
 sections:
     - hero:
         title: 
