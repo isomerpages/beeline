@@ -18,17 +18,16 @@ Yes, commuters can continue to book a ride on Beeline until the last day of serv
 #### **What are other alternative but services I can use instead of Beeline?**
 
 If you are still keen on subscribing to bus shuttle services, you may contact our current operator partners below: 
-- Strides: hello@strides.com.sg
-- GTS: enquiries@gtscar.com.sg
-- Tong Tar: transport@tongtar.com
-- 3S: info@3s-transport.com
-- Aedge: info@aedge.com.sg
-- Woodlands Transport: contact-us@woodlandstransport.com.sg
-- Comfort Delgro: TBC
-- Karkool Limousine: TBC
-- NLS: TBC
-- Yeoh Brothers: TBC
+- **Strides:** https://strides.com.sg/
+- **GTS:** https://www.gtscar.com.sg/
+- **Tong Tar:** https://www.tongtar.com/
+- **3S:** https://www.3s-transport.com/
+- **Aedge:** http://aedge.com.sg/
+- **Woodlands Transport:** https://www.woodlandstransport.com.sg/
+- **Comfort Delgro:** http://www.comfortdelgrobus.com.sg/
+- **Yeo’s Brothers:** http://www.yeosbrother.com.sg/
  
 #### **What will happen to our unused passes and tickets?**
 
 The individual operators will be working with you on the refunds, which could require up to 30 days depending on your bank processes.
+
