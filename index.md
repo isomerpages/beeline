@@ -10,7 +10,7 @@ sections:
     - hero:
         title: 
         subtitle: 
-        background: /images/hero4.png
+        background: /images/hero5.png
         button: 
         url: 
     - infopic:
