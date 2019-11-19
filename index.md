@@ -39,9 +39,9 @@ sections:
     - infobar:
         title: Work with us
         subtitle: 
-        description: Beeline is a demand-driven, shared transit experimentation brought to you by GovTech. Over the course of 4 year, we have worked with various reliable bus operators and organisations to initiate new routes, serving commuters all across the island. 
+        description: Beeline is a demand-driven, shared transit experimentation brought to you by GovTech. Over the course of 4 years, we have worked with various reliable bus operators and organisations to initiate new routes, serving commuters all across the island. 
         button: Contact us
-        url: <feedback@beeline.sg>
+        url: mailto:feedback@beeline.sg
 
 ---
 
