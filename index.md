@@ -36,5 +36,13 @@ sections:
         description: We envision a future where the transport network will adapt to the ebb and flow of our lovely city. A future where individuals and communities are empowered to improve their own commuting experience and transport providers are better equipped to respond to the changing needs. And this platform is the enabler.      
         image: /images/infopic-4.png
         alt: infopic-4
+    - infobar:
+        title: Work with us
+        subtitle: 
+        description: Beeline is a demand-driven, shared transit experimentation brought to you by GovTech. Over the course of 4 year, we have worked with various reliable bus operators and organisations to initiate new routes, serving commuters all across the island. 
+        button: Contact us
+        url: <feedback@beeline.sg>
 
 ---
+
+
