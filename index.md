@@ -4,12 +4,13 @@ title: Beeline
 description: 
 image: /images/logo.png
 permalink: /
-notification: Beeline will be discountinuing our services from 1 Jan 2020 onwards. Thank you for your support! Find out more <a href="/faq/">here</a>.
+notification: 
+##Beeline will be discountinuing our services from 1 Jan 2020 onwards. Thank you for your support! Find out more <a href="/faq/">here</a>.
 sections:
     - hero:
         title: 
         subtitle: 
-        background: /images/hero.png
+        background: /images/hero3.png
         button: 
         url: 
     - infopic:
@@ -36,5 +37,13 @@ sections:
         description: We envision a future where the transport network will adapt to the ebb and flow of our lovely city. A future where individuals and communities are empowered to improve their own commuting experience and transport providers are better equipped to respond to the changing needs. And this platform is the enabler.      
         image: /images/infopic-4.png
         alt: infopic-4
+    - infobar:
+        title: Work with us
+        subtitle: 
+        description: Beeline is a demand-driven, shared transit experimentation brought to you by GovTech. Over the course of 4 years, we have worked with various reliable bus operators and organisations to initiate new routes, serving commuters all across the island. 
+        button: Contact us
+        url: mailto:feedback@beeline.sg
 
 ---
+
+
