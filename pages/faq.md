@@ -15,7 +15,7 @@ Fortunately, we have open-sourced Beeline, so that others might take advantage o
 #### **Will I be able to book a ride until the end date?**
 Yes, commuters can continue to book a ride on Beeline until the last day of service on 31 Dec 2019. Thereafter, the Beeline app consumer services will no longer be in operation.
 
-#### **What are other alternative but services I can use instead of Beeline?**
+#### **What are other alternative bus services I can use instead of Beeline?**
 
 If you are still keen on subscribing to bus shuttle services, you may contact our current operator partners below: 
 - **Strides:** https://strides.com.sg/
