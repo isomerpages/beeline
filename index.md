@@ -4,8 +4,7 @@ title: Beeline
 description: 
 image: /images/logo.png
 permalink: /
-notification: 
-##Beeline will be discountinuing our services from 1 Jan 2020 onwards. Thank you for your support! Find out more <a href="/faq/">here</a>.
+notification: Beeline will be discountinuing our services from 1 Jan 2020 onwards. Thank you for your support! Find out more <a href="/faq/">here</a>.
 sections:
     - hero:
         title: 
