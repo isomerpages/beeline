@@ -1,5 +1,5 @@
 ---
-title: FAQ
+title: Beeline Cessation FAQ
 permalink: /faq/
 ---
 
@@ -30,4 +30,10 @@ If you are still keen on subscribing to bus shuttle services, you may contact ou
 #### **What will happen to our unused passes and tickets?**
 
 The individual operators will be working with you on the refunds, which could require up to 30 days depending on your bank processes.
+
+#### **What will happen to crowdstart routes which I have commited to?**
+
+The crowdstart routes will not be activated and there will be no charges charged to your accounts. 
+
+
 
