@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Beeline
+title: Beeline | Open Government Products
 description: 
 image: /images/logo.png
 permalink: /

@@ -3,6 +3,21 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: /images/beeline.ico
 is_government: false
 
+colors:
+  primary-color: '#4b3863'
+  secondary-color: '#4b3863'
+  media-colors:
+    - title: media-color-one
+      color: '#49759a'
+    - title: media-color-two
+      color: '#744d9f'
+    - title: media-color-three
+      color: '#00838f'
+    - title: media-color-four
+      color: '#00838f'
+    - title: media-color-five
+      color: '#00838f'
+
 google_analytics: UA-79537959-3
 
 ##################################################################################################################
@@ -23,11 +38,14 @@ custom_print_css_path: "/assets/css/print.css"
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
+description: test test
+
+
+staging: https://beeline-staging.netlify.com
+prod: https://beeline-prod.netlify.com
 plugins:
   - jekyll-feed
   - jekyll-assets
   - jekyll-paginate
   - jekyll-sitemap
-description: test test
-
-
+  - jekyll-remote-theme
